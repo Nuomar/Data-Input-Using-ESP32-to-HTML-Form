@@ -26,7 +26,7 @@ Let's go to the second investigation.
 
 Next, we upload the sketch and use the serial monitor to obtain the web server's IP address.
 
-![enter image description here](https://i.postimg.cc/x1mdQ6RR/1-0b-TWErg5-LVcxg-TEBOIc-YLA.png)
+![enter image description here](https://i.postimg.cc/RV2Mg2tR/Tqw.png)
 
 As seen above, the serial monitor also displays the results of input into the HTML form field in addition to the IP address. The values for all input variables named inputString, inputInt, and inputFloat are null or zero because we haven't entered any values—we haven't even opened the box yet.
 
