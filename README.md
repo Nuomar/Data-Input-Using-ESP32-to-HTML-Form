@@ -36,3 +36,4 @@ Let's now launch a web browser and access the web server by entering the IP addr
 
 So in here we input the values ​​’halo’, 18, and 3.3 to the three input fields. Input values ​​are adjusted to the type of data received by each input field, that’s right.
 ![enter image description here](https://i.postimg.cc/FHxjybdh/CyxcRJw.png)
+
